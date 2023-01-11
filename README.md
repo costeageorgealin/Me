@@ -4,7 +4,7 @@
 Junior Web Developer
 --------------------
 
-I'm a student who dreams to become full-stack-developer and content creator building my version of the digital word one step at time.All coding project are build from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm a student who dreams to become full-stack-developer and content creator building my version of the digital word one step at time.All coding projects are build from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 * 🌍  I'm based in Bucharest
 * ✉️  You can contact me at [costeageorgealin@gmail.com](mailto:costeageorgealin@gmail.com)
