@@ -8,7 +8,7 @@ I'm a student who dreams to become full-stack-developer and content creator. I w
 
 * 🌍  I'm based in Bucharest
 * ✉️  You can contact me at [costeageorgealin@gmail.com](mailto:costeageorgealin@gmail.com)
-* 🧠  I'm learning NextJs13 
+* 🧠  I'm learning PHP 
 * 🤝  I'm open to collaborating on Interesing projects
 
 ### Skills
