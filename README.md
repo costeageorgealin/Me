@@ -7,7 +7,7 @@ I'm a student who dreams to become full-stack-developer and content creator. I w
 
 * 🌍  I'm based in Bucharest
 * ✉️  You can contact me at [costeageorgealin@gmail.com](mailto:costeageorgealin@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Cybersecurity
 * 🤝  I'm open to collaborating on Interesing projects
 
 ### Skills
